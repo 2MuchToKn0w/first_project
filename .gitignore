@@ -1,3 +1,8 @@
-*.log
-logs/*
-!rare_critical_logs.log
+.idea/
+*.iml
+__pycache__/
+*.pyc
+Thumbs.db
+Desktop.ini
+AppData/
+NTUSER.DAT*
